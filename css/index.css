@@ -3078,6 +3078,7 @@ img{
 	position: fixed;
 	left:35px;
 	bottom:150px;
+	display: none;
 }
 .nav_l ul li{
 	width:30px;
